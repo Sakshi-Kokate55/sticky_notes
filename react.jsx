@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:5173/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="./react_files/client"></script>
+
+    
+    <link rel="icon" type="image/svg+xml" href="http://localhost:5173/vite.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vite + React</title>
+  </head>
+  <body>
+    <div id="root"><h1>Today Date is: 15-July-2025 </h1><li>Item 1</li><li>Item 2</li><div style="display: flex; justify-content: center; align-items: center;"><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>React-Course</h1><h2>Some info on react</h2></div><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>JS-Course</h1><h2>Some info on javascript</h2></div><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>Mern-Course</h1><h2>Some info on &lt;Mern&gt;</h2></div><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>Python-Course</h1><h2>Some info on Python</h2></div><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>CSS-Course</h1><h2>Some info on css</h2></div><div class="card undefined" style="background-color: rgba(0, 0, 0, 0.09); margin: 2px;"><h1>HTML-Course</h1><h2>Some info on html</h2></div></div></div>
+    <script type="module" src="./react_files/main.jsx"></script>
+  
+
+</body></html>
