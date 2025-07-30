@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Card from "./Components/Card/card";
+import Card from "./Components/Card/Card";
 import { NotesData } from "./Data/notes";
 import Container from "./Components/Container/Container";
 
